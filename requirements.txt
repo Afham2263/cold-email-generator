@@ -10,3 +10,4 @@ tqdm
 python-dotenv
 beautifulsoup4
 html2text
+chromadb
