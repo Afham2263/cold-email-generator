@@ -2,6 +2,13 @@
 
 This application automates generating customized cold emails for job applications. It scrapes job postings, identifies required skills, and generates personalized emails based on your portfolio.
 
+##  Live Demo
+
+Check out the live app on **Streamlit Cloud**:
+
+ [Launch Cold Email Generator](https://cold-email-generator-ai-proj.streamlit.app/)
+
+
 ## Features
 - Job posting extraction from a URL.
 - Portfolio integration for relevant skills and project links.
