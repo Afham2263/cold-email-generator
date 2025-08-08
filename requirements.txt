@@ -1,2 +1,12 @@
+
+streamlit
 langchain
 langchain-community
+langchain-core
+langchain-groq
+pydantic
+requests
+tqdm
+python-dotenv
+beautifulsoup4
+html2text
